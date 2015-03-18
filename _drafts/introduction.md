@@ -1,0 +1,9 @@
+I'm a programmer. To a lot of people my generation or older,  a programmer is either like Neo from the Matrix: looking at a black screen with green letters flashing across it, late night hacking in dark rooms, anonymous strangers in chat rooms, and lots of illegal activities. Or they're like Peter Gibbons, from Office Space: cursing at printers, socially awkward,  pining after the girl next door, and complaining about a boss that is kind-of a bit too weird. More recently movies like The Social Network and TV shows like Silicon Valley have started painting programmers as "cool". People like everyone else, with problems like everyone else, and they're just trying to get by, man.
+
+And mostly those portraits are not wrong. I know people within each of those archetypes. Most of them are just guys - gender chosen carefully - who've had a pretty decent education, are a bit "smarter", and see it as a way to make a living.
+
+Companies jump through incredibly expensive hoops to attract "top notch" programmers to their elaborate and extravagant campuses. Programmers who get paid twice as much as the average income level for a US household consider themselves underpaid. It's a matter of principle to own the most recent Apple product - phone, tablet, or computer. Or the most recent Google rival. If you're not a member of the latest social network, you don't know what your competition is up to. You don't know whether your software will click with the kids - that ever-evasive user group.
+
+As programming and technical know-how make their way into our school curriculums, as they become the new literacy, as geeks become the new trendsetters of our society, it's time to critically look at how programming is taught and seen by the people who do it every day.
+
+It's time that we start pushing back against the glitz and extravagance of the elites dictating large parts of our society, and appreciate programming for its simpler nuances and beauty.
