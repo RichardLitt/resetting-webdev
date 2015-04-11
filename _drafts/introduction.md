@@ -8,4 +8,4 @@ As programming and technical know-how make their way into our school curriculums
 
 It's time that we start pushing back against the glitz and extravagance of the elites dictating large parts of our society, and appreciate programming for its simpler nuances and beauty.
 
-This text will be expressivily anti-capitalist and anti-profit. It written with the intent of being inclusive, from the perspective of people who are probably not Japanese, but with an interest in building resources and attitudes that shun profit, glamour, and extravagance.
+This text will be expressivily anti-capitalist and anti-profit. It written with the intent of being inclusive, from the perspective of people who don't always know what's right, but with an interest in building resources and attitudes that shun profit, glamour, and extravagance.
